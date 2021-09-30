@@ -38,8 +38,8 @@
                                                 <rect key="frame" x="103.5" y="0.0" width="103.5" height="112.5"/>
                                                 <color key="backgroundColor" red="1" green="0.78823529411764703" blue="0.078431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                                <state key="normal">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                <state key="normal" title="&lt;">
+                                                    <color key="titleColor" red="1" green="0.78823529411764703" blue="0.078431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <imageReference key="image" image="delete.left" catalog="system" symbolScale="large"/>
                                                 </state>
                                                 <connections>
